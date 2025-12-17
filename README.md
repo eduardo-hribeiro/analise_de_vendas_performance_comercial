@@ -34,10 +34,10 @@ Analisar o desempenho comercial ao longo do ano de 2024, através de métricas e
 
 ## 🧠 Principais Insights
 
-- **Produto Campeão:** Notebook com maior receita total;
-- **Melhor Vendedor:** Ana com maior resultado de vendas;
-- **Sazonalidade:** Observa-se crescimento mais alto em alguns meses;
-- **Distribuição:** Diferença relevante de receita entre regiões/produtos.
+- Notebook foi o produto com maior receita.
+- Vendedor Ana liderou desempenho entre os vendedores.
+- Região Sul liderou receita, seguida por Nordeste.
+- A receita teve picos em março e julho de 2024.
 
 ## 📊 Dashboard
 
