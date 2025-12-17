@@ -1,6 +1,6 @@
 # Análise de Vendas – Performance Comercial
 
-Este projeto apresenta uma análise de desempenho comercial de uma base de vendas fictícia, utilizando Google Sheets para organização, análise e visualização dos dados.
+Este projeto apresenta uma análise de desempenho comercial de uma base de vendas fictícia, utilizando Excel/Google Sheets para organização, análise e visualização dos dados.
 
 ## 📁 Estrutura do Projeto
 
