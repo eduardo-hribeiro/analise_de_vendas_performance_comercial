@@ -10,7 +10,7 @@ analise-vendas-performance-comercial/
 │ └── base_vendas_ficticia_grande.xlsx
 │
 ├── dashboards/
-│ └── dashboard_screenshot.png
+│ └── dashboard_screenshot.jpeg
 │
 └── README.md
 ```
@@ -41,7 +41,7 @@ Analisar o desempenho comercial ao longo do ano de 2024, através de métricas e
 
 ## 📊 Dashboard
 
-![Dashboard de Vendas](dashboard/dashboard_screenshot.png)
+![dashboard_screenshot](https://github.com/user-attachments/assets/9f98e991-2a96-47c4-89c5-417559301faa)
 
 ## 📈 Como Utilizar
 
