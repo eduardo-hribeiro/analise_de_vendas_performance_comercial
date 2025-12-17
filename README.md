@@ -39,6 +39,10 @@ Analisar o desempenho comercial ao longo do ano de 2024, através de métricas e
 - **Sazonalidade:** Observa-se crescimento mais alto em alguns meses;
 - **Distribuição:** Diferença relevante de receita entre regiões/produtos.
 
+## 📊 Dashboard
+
+![Dashboard de Vendas](dashboard/dashboard_screenshot.png)
+
 ## 📈 Como Utilizar
 
 1. Abra a planilha em Google Sheets.
