@@ -8,8 +8,10 @@ Este projeto apresenta uma análise de desempenho comercial de uma base de venda
 analise-vendas-performance-comercial/
 ├── dados/
 │ └── base_vendas_ficticia_grande.xlsx
+│
 ├── dashboards/
 │ └── dashboard_screenshot.png
+│
 └── README.md
 ```
 
