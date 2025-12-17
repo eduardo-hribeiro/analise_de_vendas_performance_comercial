@@ -46,7 +46,7 @@ Analisar o desempenho comercial ao longo do ano de 2024, através de métricas e
 ## 📈 Como Utilizar
 
 1. Abra a planilha em Google Sheets.
-2. Ou acesse diretamente pelo link: https://docs.google.com/spreadsheets/d/1wdzcgjMXxF4UGoRsV21Gsav0XjokpCNT47ib_AXTMnk/edit?usp=sharing
+2. Ou acesse diretamente pelo link, pois a planilha pode apresentar erro de formatação: https://docs.google.com/spreadsheets/d/1wdzcgjMXxF4UGoRsV21Gsav0XjokpCNT47ib_AXTMnk/edit?usp=sharing
 3. Revise a aba `analises` para entender as tabelas dinâmicas.
 4. Confira os gráficos e KPIs na aba `dashboards`.
 5. Faça comentários visuais para destacar insights importantes.
