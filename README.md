@@ -5,7 +5,7 @@ Este projeto apresenta uma análise de desempenho comercial de uma base de venda
 ## 📁 Estrutura do Projeto
 
 ```text
-analise-vendas-performance-comercial/
+analise_de_vendas_performance_comercial/
 ├── dados/
 │ └── analise_de_vendas_performance_comercial.xlsx
 │
