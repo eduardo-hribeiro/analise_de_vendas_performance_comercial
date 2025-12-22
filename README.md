@@ -32,16 +32,16 @@ Analisar o desempenho comercial ao longo do ano de 2024, através de métricas e
 - Funções avançadas (QUERY, SORT, ÍNDICE, etc.)
 - Gráficos para visualização de dados
 
+## 📊 Dashboard
+
+![dashboard_screenshot](https://github.com/user-attachments/assets/9f98e991-2a96-47c4-89c5-417559301faa)
+
 ## 🧠 Principais Insights
 
 - Notebook foi o produto com maior receita.
 - Vendedor Ana liderou desempenho entre os vendedores.
 - Região Sul liderou receita, seguida por Nordeste.
 - A receita teve picos em março e julho de 2024.
-
-## 📊 Dashboard
-
-![dashboard_screenshot](https://github.com/user-attachments/assets/9f98e991-2a96-47c4-89c5-417559301faa)
 
 ## 📈 Como Utilizar
 
